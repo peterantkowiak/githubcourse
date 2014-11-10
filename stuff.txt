@@ -1,3 +1,0 @@
-pull first then push.
-
-Yes, this is very important! 
