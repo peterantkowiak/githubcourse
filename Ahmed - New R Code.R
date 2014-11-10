@@ -15,3 +15,4 @@ plot(mymap)
 mymap <- gmap("France", type = "satellite")
 plot(mymap)
 
+###############
