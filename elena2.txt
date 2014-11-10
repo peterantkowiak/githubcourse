@@ -7,9 +7,7 @@ i want to create a mess in this file!!!!!!! peter
 dkfhfg :-)
 
 
-<<<<<<< HEAD
 i want to create a mess in this file!!!!!!! peter
 
 ###elena: sorry first mess was created by me ;) 
-=======
->>>>>>> e3754d4c2cc0ce1a33ad080cba4ac5f3cc536f70
+
